@@ -8,4 +8,4 @@ do{
     tempK = tempCelci + 273.15
     
     console.log("La temperatura en grados Farenheit es de: "+tempF)
-    console.log("La temperatura en grados Kelvin es de: "+tempK)
+    console.log("La temperatura en grados Kelvin es de: "+tempK);
